@@ -187,6 +187,21 @@ span{
     padding: 20px 240px;
     height: 396px;
 }
+/* buy section  */
+
+.buynow{
+    padding: 20px 240px;
+}
+.buy-container{
+    display: flex;
+}
+.buy-head{
+    color: #272727;
+font-size: 45px;
+font-weight: 900;
+text-align: center;
+padding-top: 50px
+}
             /* get deal section  */
 .get-deal{
     height: 449px;
@@ -214,6 +229,9 @@ span{
     background-color: #fff;
      border-radius: 8px; 
      padding-left: 20px;
+    }
+#bt-id{
+    
 }
 
                 /* footer section  */
